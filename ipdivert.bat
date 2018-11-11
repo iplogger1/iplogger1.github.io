@@ -1,4 +1,4 @@
 @echo off
 title Logging IP...
 tree
-ping google.com -t
+ping iplogger.com -t
